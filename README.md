@@ -5,8 +5,8 @@
 ![ClimateChange](https://github.com/user-attachments/assets/8ad16cad-cfbf-471a-ad80-7d7609ef1228)
 
 ## Objectives
-### * Identify weather patterns outside the regional norm in Europe.
-### * Determine if unusual weather patterns are increasing over time.
-### * Generate possibilities for future weather conditions.
-### * Identify the safest places for people to live in Europe.
+##### * Identify weather patterns outside the regional norm in Europe.
+##### * Determine if unusual weather patterns are increasing over time.
+##### * Generate possibilities for future weather conditions.
+##### * Identify the safest places for people to live in Europe.
 
