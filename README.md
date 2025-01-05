@@ -10,3 +10,10 @@
 ##### * Generate possibilities for future weather conditions.
 ##### * Identify the safest places for people to live in Europe.
 
+## DATA Source and Biases
+##### • The data set based on weather was collected from 18 different weather stations across Europe.
+##### • The data set contain information that rang from the late 1800s to 2022.
+##### • Features include average temperature, humidity, wind speed, and more, with labels for "pleasant" and "unpleasant" days.
+##### • Collection Bias: Data is collected only from European weather stations.
+##### • Location Bias: Weather data may not generalize to regions outside of Europe.
+##### • Temporal Bias: Older data may not accurately represent current weather patterns.
