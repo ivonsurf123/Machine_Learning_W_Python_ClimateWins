@@ -5,15 +5,26 @@
 ![Weather-Forecasting-840x525](https://github.com/user-attachments/assets/bf425f81-59be-4118-8633-2e81f3561da5)
 
 ## Objectives
-##### * Identify weather patterns outside the regional norm in Europe.
-##### * Determine if unusual weather patterns are increasing over time.
-##### * Generate possibilities for future weather conditions.
-##### * Identify the safest places for people to live in Europe.
+ * Identify weather patterns outside the regional norm in Europe.
+ * Determine if unusual weather patterns are increasing over time.
+ * Generate possibilities for future weather conditions.
+ * Identify the safest places for people to live in Europe.
 
 ## DATA Source and Biases
-##### • The data set based on weather was collected from 18 different weather stations across Europe.
+ • The data set based on weather was collected from 18 different weather stations across Europe.
 ##### • The data set contain information that rang from the late 1800s to 2022.
 ##### • Features include average temperature, humidity, wind speed, and more, with labels for "pleasant" and "unpleasant" days.
 ##### • Collection Bias: Data is collected only from European weather stations.
 ##### • Location Bias: Weather data may not generalize to regions outside of Europe.
 ##### • Temporal Bias: Older data may not accurately represent current weather patterns.
+
+# Achievements Summary
+### Achievement 1: Statistical and Machine Learning Models
+
+#### Data Analysis: Performed exploratory data analysis (EDA) on historical weather data.
+
+K-Nearest Neighbors (KNN): Used to classify weather conditions based on temperature and other features.
+
+Linear and Logistic Regression: Developed regression models for temperature trends and to classify binary outcomes (e.g., rain/no rain).
+
+Random Forest: Applied to enhance prediction accuracy by combining multiple decision trees.
